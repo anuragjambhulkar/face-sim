@@ -1,0 +1,42 @@
+# Ignore node_modules
+node_modules/
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Expo build cache
+.expo/
+.expo-shared/
+
+# Android build folders (if prebuilt)
+android/
+ios/
+
+# Local server code – NOT needed for APK build
+server.py
+printlayout.jpg
+
+# Large folders
+assets/raw/
+assets/debug/
+assets/samples/
+
+# Git stuff
+.git/
+.gitignore
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Mac OS trash
+.DS_Store
