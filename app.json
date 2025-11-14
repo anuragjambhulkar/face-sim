@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "face-sim",
-    "slug": "face-sim",
+    "slug": "facesim-anuragatx",
     "version": "1.0.0",
     "orientation": "portrait",
     "scheme": "facesim",
@@ -12,7 +12,7 @@
     },
     "icon": "./assets/images/icon.png",
     "android": {
-      "package": "com.example.facesim",
+      "package": "com.anuragatx.facesim",
       "permissions": [
         "CAMERA",
         "READ_MEDIA_IMAGES",
@@ -33,7 +33,7 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "7e593dc2-9b66-44b2-b6b9-c8658b6a18ae"
+        "projectId": "59a19465-f5fa-4d43-b36f-550e2dadb5f5"
       }
     }
   }
